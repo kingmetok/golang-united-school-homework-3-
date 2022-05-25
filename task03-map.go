@@ -1,4 +1,4 @@
-package main
+package homework
 
 func sortMapValues(input map[int]string) (result []string) {
 	var ar []int

@@ -1,4 +1,4 @@
-package main
+package homework
 
 func reverse(input []int64) (result []int64) {
 	length := len(input)
